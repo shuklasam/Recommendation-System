@@ -1,0 +1,201 @@
+movie_idx,movie_title,movie_year,movie_genre,movie_rating
+0,Eden,2014,['Drama'],0.5
+1,"Intruder, The",1962,['Drama'],3.921239561324077
+2,The Two Policemen,1984,['Comedy'],3.2119768016904193
+3,Berserk: The Golden Age Arc - The Egg of the King,2012,"['Action', 'Adventure', 'Animation', 'Fantasy', 'Horror']",3.1510404397330194
+4,Mission to Mir,1997,"['Documentary', 'IMAX']",2.8613933236574747
+5,"Testament of Dr. Mabuse, The (Das Testament des Dr. Mabuse)",1933,"['Crime', 'Horror', 'Mystery', 'Thriller']",3.064591727653976
+6,Dragonball Evolution,2009,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",3.8349303318130468
+7,Rebecca,1940,"['Drama', 'Mystery', 'Romance', 'Thriller']",3.3664840675873777
+8,Thirst (a.k.a. Three Strange Loves) (Törst),1949,['Drama'],3.142049469964664
+9,#chicagoGirl: The Social Network Takes on a Dictator,2013,['Documentary'],3.0049242424242424
+10,Hannie Caulder,1971,"['Comedy', 'Crime', 'Drama', 'Western']",3.430029305292191
+11,Madagascar,2011,['Documentary'],3.667712806959586
+12,Stagecoach,1966,['Western'],2.6197659297789335
+13,For a Lost Soldier (Voor een Verloren Soldaat),1992,['Romance'],3.272416153319644
+14,Best of the Best 2,1993,['Action'],3.432082364662903
+15,Summer Stock,1950,"['Comedy', 'Musical', 'Romance']",2.7219931271477664
+16,"Exercice de l'État, L'",2011,['Drama'],3.7874554444061173
+17,Pray the Devil Back to Hell,2008,['Documentary'],3.9685730875308463
+18,"Fog, The",1980,['Horror'],3.3736305977320775
+19,"Thaw, The",2009,"['Horror', 'Sci-Fi', 'Thriller']",2.6074123603018435
+20,"Leopard, The (Gattopardo, Il)",1963,"['Drama', 'War']",2.8807541625857005
+21,Longtime Companion,1990,['Drama'],3.581688505556477
+22,What A Man,2011,"['Comedy', 'Romance']",3.319399677679291
+23,"Excuse Me Darling, But Lucas Loved Me",1997,['Comedy'],3.1482352941176472
+24,"Draughtsman's Contract, The",1982,['Drama'],3.199849454271735
+25,Bush's Brain,2004,['Documentary'],3.689509581032803
+26,Leaves from Satan's Book (Blade af Satans bog),1921,['Drama'],3.628856624319419
+27,That Cold Day in the Park,1969,['Drama'],3.413520097442144
+28,Nice Guys Sleep Alone,1999,"['Comedy', 'Romance']",4.057545973367152
+29,For the Love of Benji,1977,"['Adventure', 'Children', 'Comedy', 'Drama']",3.952230046948357
+30,"What's in a Name (Prénom, Le)",2012,['Comedy'],3.633879781420765
+31,"Sleepy Time Gal, The",2001,['Drama'],3.250344462109168
+32,Guest from the Future (Gostya iz buduschego),1985,"['Adventure', 'Drama', 'Sci-Fi']",3.8980546909737663
+33,Golem,1980,"['Drama', 'Mystery', 'Sci-Fi']",3.0076923076923077
+34,Backbeat,1993,"['Drama', 'Musical']",3.6430940939389242
+35,"Goodnight, Mister Tom",1999,['Drama'],3.5016744809109177
+36,Searching for Debra Winger,2002,['Documentary'],3.9427170935652844
+37,Amy's O (a.k.a. Amy's Orgasm),2001,"['Comedy', 'Romance']",3.0176470588235293
+38,"Pursuit of Happiness, The",1971,['Drama'],2.857789855072464
+39,Elizabethtown,2005,"['Comedy', 'Drama', 'Romance']",3.413632208425383
+40,Fatal Beauty,1987,"['Action', 'Comedy', 'Crime', 'Drama']",3.646726862302483
+41,Century of the Dragon (Long zai bian yuan),1999,"['Crime', 'Thriller']",3.8521006611217743
+42,Thomas Jefferson,1997,['Documentary'],3.0551276854479124
+43,OMG Oh My God!,2012,"['Comedy', 'Drama']",3.4684561128526648
+44,Spring in a Small Town (Xiao cheng zhi chun),1948,"['Drama', 'Romance']",2.653874918201365
+45,Goodbye Lover,1999,"['Comedy', 'Crime', 'Thriller']",3.3843613567670436
+46,Buffalo '66 (a.k.a. Buffalo 66),1998,"['Drama', 'Romance']",3.2748829953198126
+47,Ménilmontant,1926,"['Comedy', 'Drama']",4.053492566302111
+48,"Thomas Crown Affair, The",1968,"['Crime', 'Drama', 'Romance', 'Thriller']",2.9461137513414073
+49,Trilogy of Terror,1975,"['Horror', 'Thriller']",3.5847457627118646
+50,El Escarabajo de Oro,2014,['(no genres listed)'],4.334372207803259
+51,Little Birds,2011,['Drama'],2.5555555555555554
+52,Jim Jefferies: I Swear to God,2009,['Comedy'],3.541148068669528
+53,"I Hate Mondays, (Nie lubie poniedzialku)",1971,['Comedy'],3.6966666666666668
+54,Meatballs,1979,['Comedy'],2.8546025104602513
+55,"Cottage, The",2008,"['Comedy', 'Crime', 'Horror', 'Thriller']",3.241214057507987
+56,Fallen Angels (Duo luo tian shi),1995,"['Drama', 'Romance']",1.8714285714285714
+57,Heart Like a Wheel,1983,['Drama'],3.324518245182452
+58,"Ballad of Narayama, The (Narayama Bushiko)",1958,['Drama'],3.978396397956533
+59,I Was a Teenage Zombie,1987,"['Comedy', 'Horror']",3.56020942408377
+60,Photographer (Fotoamator),1998,['Documentary'],3.114446380484714
+61,"Shepherd: Border Patrol, The",2008,"['Action', 'Crime', 'Thriller']",3.3231039017974573
+62,My Tutor,1983,['Drama'],3.7318249832309993
+63,Love Is a Woman (Death Is a Woman),1966,"['Crime', 'Drama', 'Mystery']",3.06662382176521
+64,Sixpack (Pussikaljaelokuva),2011,"['Comedy', 'Drama']",2.829817833173538
+65,Laurence Anyways,2012,"['Drama', 'Romance']",2.3942228618421053
+66,All the President's Men,1976,"['Drama', 'Thriller']",2.144242935470266
+67,Kill Bill: Vol. 2,2004,"['Action', 'Drama', 'Thriller']",3.35
+68,Deja Vu,1985,['Drama'],3.4369951534733443
+69,American Gangster,2007,"['Crime', 'Drama', 'Thriller']",3.560634328358209
+70,Masquerade,1988,"['Mystery', 'Romance', 'Thriller']",3.2774543738200124
+71,Nazarin (Nazarín),1959,['Drama'],2.3552123552123554
+72,In Secret,2013,"['Crime', 'Drama', 'Romance', 'Thriller']",3.502439024390244
+73,Student of the Year,2012,"['Comedy', 'Romance']",3.8067681895093064
+74,Winchester '73,1950,['Western'],3.3022196926579395
+75,Berlin Alexanderplatz,1980,['Drama'],2.4623655913978495
+76,Floating Clouds  (Ukigumo),1955,"['Drama', 'Romance']",3.0090236686390535
+77,True Heart Susie,1919,"['Drama', 'Romance']",3.429864253393665
+78,"Magic Christian, The",1969,['Comedy'],3.180668841761827
+79,Fallout,1998,"['Action', 'Sci-Fi']",3.1285456187895213
+80,Showgirls,1995,['Drama'],3.7243478260869565
+81,"My Brother's Wife (Mujer de mi hermano, La)",2005,['Drama'],3.267373013399813
+82,Children of the Corn,1984,"['Horror', 'Thriller']",4.004925137903862
+83,"Great Ziegfeld, The",1936,"['Drama', 'Musical']",3.653198653198653
+84,"Crimson Permanent Assurance, The",1983,"['Adventure', 'Comedy']",3.4177215189873418
+85,Pacific Rim,2013,"['Action', 'Adventure', 'Sci-Fi', 'IMAX']",3.531134856300663
+86,Summer School,1987,['Comedy'],3.483402971216342
+87,Sweepers,1998,"['Action', 'Adventure', 'Drama']",2.3596311475409837
+88,Stake Land,2010,['Horror'],3.1076274671052633
+89,Alamo Bay,1985,"['Action', 'Drama', 'Romance']",3.139821373575608
+90,"Ugly Truth, The",2009,"['Comedy', 'Drama', 'Romance']",3.357476635514019
+91,Thunderheart,1992,"['Crime', 'Mystery', 'Thriller']",0.5
+92,Fog Over Frisco,1934,"['Crime', 'Mystery', 'Thriller']",2.8541033434650456
+93,Macbeth in Manhattan,1999,['Drama'],2.528738555442523
+94,"Forsyte Saga, The",1967,['Drama'],3.526923076923077
+95,Penny Serenade,1941,"['Drama', 'Romance']",3.0946435034382915
+96,My Afternoons with Margueritte (La tête en friche),2010,['Comedy'],3.6873706004140785
+97,Above the Law,1988,"['Action', 'Crime', 'Drama']",3.9964340295466125
+98,"Big Broadcast of 1938, The",1938,"['Comedy', 'Musical', 'Romance']",2.4876543209876543
+99,"Season for Miracles, A",1999,"['Children', 'Romance']",3.105371900826446
+100,Sanshiro Sugata Part Two (Judo Saga II) (Zoku Sugata Sanshirô),1945,"['Action', 'Adventure']",3.22138517618469
+101,Black Rainbow,1989,['Thriller'],3.786295951605398
+102,Better This World,2011,['Documentary'],2.4294678714859437
+103,Wild Bill,2011,"['Crime', 'Drama']",3.2691968225948806
+104,Black Cadillac,2003,"['Horror', 'Thriller']",3.4170806586659226
+105,"Serious Man, A",2009,"['Comedy', 'Drama']",3.326299376299376
+106,Annie Oakley,1935,"['Drama', 'Western']",3.4440298507462686
+107,Shower (Xizao),1999,['Comedy'],3.2153387703889584
+108,Things We Lost in the Fire,2007,"['Drama', 'Romance']",3.092
+109,Big Eyes,2014,['Drama'],2.0625
+110,"Flying Scotsman, The",2006,['Drama'],4.042533802004873
+111,On the Ice,2011,"['Drama', 'Thriller']",4.110575548384461
+112,The Forbidden Room,2015,"['Comedy', 'Drama', 'Mystery', 'Romance']",3.412573591253154
+113,De Dana Dan,2009,['Comedy'],3.1092745638200183
+114,Metalstorm: The Destruction of Jared-Syn,1983,"['Action', 'Adventure', 'Sci-Fi']",3.619433198380567
+115,Act of Violence,1948,"['Drama', 'Film-Noir', 'Thriller']",3.4078947368421053
+116,"East, The",2013,['Drama'],3.9373024236037937
+117,Primus Hallucino-Genetics Live 2004,2004,['(no genres listed)'],3.589398734177215
+118,Twelve O'Clock High,1949,"['Drama', 'War']",3.0110035211267605
+119,Two Sisters from Boston,1946,"['Comedy', 'Musical']",2.772727272727273
+120,Class Action,1991,['Drama'],2.880952380952381
+121,Dr. Cyclops,1940,"['Adventure', 'Horror', 'Sci-Fi']",3.7532855436081243
+122,Besotted,2001,['Drama'],2.8676697530864197
+123,Switchblade Sisters,1975,['Crime'],3.9692507579038545
+124,Wedding Daze,2006,"['Comedy', 'Romance']",3.498432601880878
+125,"Confessor, The (a.k.a. The Good Shepherd)",2004,"['Drama', 'Thriller']",3.7556850483229107
+126,Nas: Time Is Illmatic,2014,['Documentary'],2.312136627906977
+127,God Bless America,2011,"['Comedy', 'Drama']",3.2560975609756095
+128,Uncertainty,2009,"['Action', 'Crime', 'Drama', 'Fantasy', 'Romance']",3.5
+129,Horton Hears a Who!,2008,"['Adventure', 'Animation', 'Children', 'Comedy']",3.163157894736842
+130,Cell Count,2012,"['Horror', 'Sci-Fi']",3.1153846153846154
+131,Feeding Frenzy,2010,"['Comedy', 'Horror']",3.2912371134020617
+132,Ryan,2004,"['Animation', 'Documentary', 'Drama', 'Fantasy']",2.773198304286387
+133,"Greatest Love, The (Europa '51)",1952,['Drama'],2.6052631578947367
+134,Rabbit Without Ears 2 (Zweiohrküken),2009,"['Comedy', 'Romance']",3.6527777777777777
+135,"Great Debaters, The",2007,['Drama'],2.9980174464710547
+136,"Sandglass, The (Sanatorium pod klepsydra)",1973,['Mystery'],3.549019607843137
+137,Rumor Has It...,2005,"['Comedy', 'Drama', 'Romance']",3.2853982300884956
+138,La cravate,1957,['(no genres listed)'],3.2846715328467155
+139,Dungeons & Dragons,2000,"['Adventure', 'Fantasy']",3.073170731707317
+140,X: The Unknown,1956,"['Horror', 'Sci-Fi']",3.2938103686181748
+141,loudQUIETloud: A Film About the Pixies,2006,['Documentary'],3.5122161671207994
+142,Smiles of a Summer Night (Sommarnattens leende),1955,"['Comedy', 'Romance']",3.0609756097560976
+143,Field of Dreams,1989,"['Children', 'Drama', 'Fantasy']",2.142857142857143
+144,Land of the Dead,2005,"['Action', 'Horror', 'Thriller']",3.4771365149833517
+145,"Champ, The",1979,['Drama'],3.2507724425887266
+146,Slither,1973,"['Comedy', 'Crime', 'Thriller']",2.9120689655172414
+147,Chesty: A Tribute to a Legend,1976,['Documentary'],3.5829286061194754
+148,Parasite,1982,"['Horror', 'Sci-Fi']",2.8893557422969187
+149,All Cheerleaders Die,2013,"['Comedy', 'Horror', 'Thriller']",3.6943171402383133
+150,Sexy Baby,2012,['Documentary'],3.86859786089541
+151,Return,2011,['Drama'],3.539037729866836
+152,American Kickboxer 2 (American Kickboxer 2: To the Death),1993,['Action'],3.1044546850998462
+153,Crazy Mama,1975,"['Action', 'Comedy']",2.894727234003712
+154,"Verlorene, Der (Lost One, The)",1951,"['Crime', 'Drama', 'Thriller']",3.8019933554817276
+155,"Fly, The",1958,"['Horror', 'Mystery', 'Sci-Fi']",3.4079153605015673
+156,Stealing Time (a.k.a. Rennie's Landing),2001,['Drama'],3.5279615153337343
+157,Aladdin,1986,"['Adventure', 'Fantasy']",2.7846687211093992
+158,Puppet Master II,1991,"['Horror', 'Sci-Fi', 'Thriller']",2.932
+159,Towelhead (a.k.a. Nothing is Private),2007,['Drama'],3.4169484361792053
+160,Wanted,2009,"['Action', 'Romance']",2.6047444036084197
+161,I Was A Communist for the FBI,1951,"['Drama', 'Film-Noir', 'Thriller']",3.744201794481124
+162,Genius Within: The Inner Life of Glenn Gould,2009,['Documentary'],4.009924937447873
+163,Unlawful Killing,2011,['Documentary'],3.445394874659591
+164,"Unfaithful, The",1947,"['Drama', 'Film-Noir']",3.46358511837655
+165,Super Duper Alice Cooper,2014,['Documentary'],3.4890247495580438
+166,"Sword and the Dragon, The (Ilya Muromets)",1956,"['Adventure', 'Fantasy']",2.787692307692308
+167,Charlie Chan in Rio,1941,"['Comedy', 'Crime', 'Mystery', 'Thriller']",3.1645569620253164
+168,"Phone Box, The (Cabina, La)",1972,"['Comedy', 'Drama', 'Mystery', 'Thriller']",3.084698775239987
+169,Float,2007,"['Drama', 'Romance']",2.283650982727814
+170,Adventures of Tarzan,1921,"['Action', 'Adventure']",3.1975873015873018
+171,Loving Annabelle,2006,"['Drama', 'Romance']",3.6030133146461107
+172,"Beautician and the Beast, The",1997,"['Comedy', 'Romance']",2.7326066425310875
+173,White Men Can't Jump,1992,"['Comedy', 'Drama']",2.5382845327819648
+174,"Bone Man, The (Der Knochenmann)",2009,"['Crime', 'Thriller']",2.455979284369115
+175,Tape,2001,['Drama'],3.507602582795251
+176,Let It Ride,1989,['Comedy'],3.854633939906898
+177,Jack and the Cuckoo-Clock Heart (Jack et la mécanique du coeur),2013,"['Adventure', 'Animation', 'Drama', 'Fantasy', 'Musical', 'Romance']",2.8859118409680207
+178,"Goodbye, Dragon Inn (Bu san)",2003,"['Comedy', 'Drama']",3.388
+179,Hardcore,2004,"['Crime', 'Drama']",2.7506102522375917
+180,"Way You Wanted Me, The (Sellaisena kuin sinä minut halusit)",1944,"['Drama', 'Romance']",3.5872619047619048
+181,"4 Months, 3 Weeks and 2 Days (4 luni, 3 saptamâni si 2 zile)",2007,['Drama'],1.9290018832391713
+182,"Sea, The (Hafið)",2002,['Drama'],3.091822094691535
+183,Scum,1979,"['Crime', 'Drama']",3.3648208469055376
+184,"Great Gatsby, The",1974,['Drama'],3.1036585365853657
+185,Operación Cannabis,2009,"['Action', 'Adventure', 'Comedy', 'Crime']",3.1104273295962304
+186,Distant Drums,1951,"['Action', 'Romance', 'Western']",2.891730529317412
+187,Jonny Vang,2003,"['Comedy', 'Drama', 'Mystery']",3.451219512195122
+188,Gardens of the Night,2008,['Drama'],3.342473979183347
+189,"Two Women (Ciociara, La)",1960,"['Drama', 'War']",3.0014880952380953
+190,Bernice Bobs Her Hair,1976,"['Comedy', 'Drama']",3.566145833333333
+191,"Hell of a Day, A (Reines d'un jour)",2001,"['Comedy', 'Drama']",2.676081730769231
+192,Summertime,1955,"['Drama', 'Romance']",3.0246913580246915
+193,Earth (Zemlya),1930,['Drama'],2.2340568060021435
+194,Wuthering Heights,2011,['Drama'],3.84967155128853
+195,Redline,2007,['Action'],3.0894509561998764
+196,Fast Food Nation,2006,['Drama'],2.8502714998532435
+197,Lucky You,2007,"['Comedy', 'Drama']",3.0681818181818183
+198,"Alligator People, The",1959,['Horror'],3.4170950453899156
+199,Chillers,1987,['Horror'],3.783641160949868

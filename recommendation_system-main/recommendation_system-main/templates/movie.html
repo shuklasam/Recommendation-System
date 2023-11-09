@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Movie</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/index.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/movie.css') }}"
+    />
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="logo">
+        <a href="#">Recommendation System</a>
+      </div>
+      <ul class="nav-links">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Portfolio</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      <div class="menu-toggle">
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+      </div>
+    </nav>
+    <form action="" method="">
+      <div class="movie-details">
+        <div>
+          <h2 class="movie-title">{{data['title']}}</h2>
+          <p class="movie-year">Launch Year: {{data['year']}}</p>
+          <p class="movie-genres">Genres: {{ data['genre'] }}</p>
+          <div class="button-container">
+            <button class="wishlist-button">Add to Wishlist</button>
+            <button class="cart-button">Add to Cart</button>
+            <button class="buy-button">Buy</button>
+          </div>
+          <div class="star-rating">
+            Rate
+            <input type="radio" name="rating-1" id="rating-1-5" value="5" />
+            <label for="rating-1-5"></label>
+            <input type="radio" name="rating-1" id="rating-1-4" value="4" />
+            <label for="rating-1-4"></label>
+            <input type="radio" name="rating-1" id="rating-1-3" value="3" />
+            <label for="rating-1-3"></label>
+            <input type="radio" name="rating-1" id="rating-1-2" value="2" />
+            <label for="rating-1-2"></label>
+            <input type="radio" name="rating-1" id="rating-1-1" value="1" />
+            <label for="rating-1-1"></label>
+          </div>
+          <button class="submit-rating-button">Submit Rating</button>
+        </div>
+      </div>
+    </form>
+    <div class="movie-list">
+      {% for recommendation in similar %}
+      <a
+        class="movie-card"
+        href="{{ url_for('moviePage', id=recommendation['id'] )}}"
+      >
+        <h2 class="movie-title">{{recommendation['title']}}</h2>
+        <p class="movie-rating hover-text">{{recommendation['year']}}</p>
+        <p class="movie-year hover-text">{{recommendation['genre']}}</p>
+        <p class="movie-genre hover-text">{{recommendation['rating']}}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </body>
+  <script
+    type="text/javascript"
+    src="{{ url_for('static', filename='script/navbar.js') }}"
+  ></script>
+</html>

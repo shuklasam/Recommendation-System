@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+.movie-details {
+  display: flex;
+  width: 100%;
+  justify-content: center; /* Center horizontally */
+}
+
+.movie-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+.movie-rating,
+.movie-year,
+.movie-genre {
+    margin: 5px 0;
+    color: #ccc;
+}
+
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.wishlist-button,
+.cart-button,
+.buy-button {
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+  color: #ffffff;
+  background-color: #4caf50;
+  margin-bottom: 20px;
+}
+
+.wishlist-button:hover,
+.cart-button:hover,
+.buy-button:hover {
+  background-color: #45a049;
+}
+
+
+.submit-rating-button {
+  background-color: #4caf50;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 3px;
+  margin-top: 10px;
+}
+
+.submit-rating-button:hover {
+  background-color: #45a049;
+}
+
+
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.movie-list {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.movie-card {
+  background-color: #2e2e2e;
+  border-radius: 5px;
+  border-color: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  margin: 10px;
+  width: 300px;
+}
+
+.movie-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.movie-rating,
+.movie-year,
+.movie-genre {
+  margin: 5px 0;
+}
+
+.movie-card:hover {
+  background-color: #555;
+  transform: scale(1.05);
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.hover-text {
+  display: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 14px;
+}
+
+.movie-card:hover .hover-text {
+  display: block;
+}
+
+
+

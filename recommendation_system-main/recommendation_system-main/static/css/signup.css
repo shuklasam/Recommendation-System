@@ -1,0 +1,118 @@
+/* Reset some default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Apply dark theme to the body */
+body {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+.page-heading {
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+
+}
+
+/* Center the form and adjust its width */
+form {
+  max-width: 450px;
+  margin: 0 auto;
+}
+
+/* Style form labels */
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+/* Style form inputs and textareas */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  background-color: #2e2e2e;
+  color: #ffffff;
+}
+
+/* Style radio buttons and checkboxes */
+input[type="radio"],
+input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+/* Style select dropdown */
+select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  background-color: #2e2e2e;
+  color: #ffffff;
+}
+
+/* Style submit button */
+input[type="submit"] {
+  background-color: #4caf50;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+/* Add spacing to the submit button */
+input[type="submit"] {
+  margin-top: 15px;
+}
+
+/* Make the form responsive */
+@media screen and (max-width: 600px) {
+  form {
+      padding: 0 15px;
+  }
+}
+
+
+/* ... (previous CSS code) ... */
+
+/* Style gender options */
+.gender-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.gender-label {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+
+/* ... (remaining CSS code) ... */
+
+/* Make the form responsive */
+@media screen and (max-width: 600px) {
+  form {
+      padding: 0 15px;
+  }
+  
+  .gender-container {
+      flex-direction: column;
+  }
+}
